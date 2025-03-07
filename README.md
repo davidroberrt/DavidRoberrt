@@ -15,7 +15,7 @@
 💻 **Passionate about:** Creating high-performance iOS apps with exceptional user experiences  
 🛠️ **Projects:** Developed **AUTOEPG** (IFN-50) and **FORMAT SCRIPT**, automating TV programming with **Python**  
 😎 **Multi-platform Skills:** macOS | Linux | Windows  
-🚀 **Languages & Tools:** Swift | Python | Automation  
+🚀 **Languages & Tools:** Swift | Python | C | C++ | JavaScript | TypeScript | and others...
 
 ---
 
