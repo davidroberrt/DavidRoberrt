@@ -19,7 +19,7 @@
 
 ---
 
-## 📡 Connect with Me  
+## 🇧🇷 Connect with Me  
 
 [![portfolio](https://img.shields.io/badge/My_Portfolio-272727?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/davidroberrt/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidrobertt)
