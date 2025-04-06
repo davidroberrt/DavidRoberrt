@@ -4,14 +4,14 @@
     <img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=40&duration=3000&pause=1000&color=blue&center=true&vCenter=true&random=false&width=800&height=90&lines=Hello+Developers+%E2%98%95%EF%B8%8F;and+Recruiters%E2%80%A6+%F0%9F%94%8E;I%E2%80%99m+DAVID+ROBERT!++%F0%9F%9A%80;The+iOS+Expert+You+Need!;Contact+me!+%F0%9F%93%B2+%F0%9F%91%87%F0%9F%8F%BB" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">📱 Software Developer | Python | iOS Swift Enthusiast | Building High-Performance Solutions</h3>
+<h3 align="center">📱 Software Developer | Python | iOS Development Enthusiast | Building High-Performance Solutions</h3>
 
 ---
 
 ## 🚀 About Me  
 
 🔭 **Currently working at [TV Cabo Branco | Rede Globo](https://www.globo.com)** as a **Specialist in Engineering**  
-🌱 **Mastering:** Swift | iOS Development | Flutter  
+🌱 **Mastering:** Swift | iOS Development Swift | **Python** | Flutter 
 💻 **Passionate about:** Creating high-performance iOS apps with exceptional user experiences  
 🛠️ **Projects:** Developed **AUTOEPG** (IFN-50) and **FORMAT SCRIPT**, automating TV programming with **Python**  
 😎 **Multi-platform Skills:** macOS | Linux | Windows  
